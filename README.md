@@ -1,2 +1,2 @@
 # SayorNetwork
-Simple Dark Blog
+Template of SayorNetwork, the official site by Sheikh Sayor
